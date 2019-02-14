@@ -1,0 +1,2 @@
+class ProductVariantType < ApplicationRecord
+end
