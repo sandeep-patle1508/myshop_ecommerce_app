@@ -26,12 +26,10 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
 ##### products
 This table will store product details.
-| products |  |
-| ------ | ------ |
-| id : integer | PK |
-| name:string | product name |
-| description:text | product description |
-| is_available:boolean | availablity of product |
+* id - integer - PK
+* name - string - product name
+* description - text - product description
+* is_available - boolean - availablity of product
 
 ##### skus
 This table will store product price and sku details. product is associated with sku table by one-to-many relationship, as one product can have more than one skus.
