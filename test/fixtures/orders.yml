@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  user_id: 1
+  date: 2019-02-14 09:23:59
+  total: 9.99
+
+two:
+  id: 1
+  user_id: 1
+  date: 2019-02-14 09:23:59
+  total: 9.99
